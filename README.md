@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img width="50%%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinthuaru12&layout=compact&theme=darcula&langs_count=6" />
 <!--
 **sinthuaru12/sinthuaru12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
